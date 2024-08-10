@@ -21,24 +21,22 @@ This project implements a machine learning model designed to predict whether a o
 
 The project is organized as follows:
 
-# Customer-Rebuy-Predictioncustomer-rebuy-prediction/
+Customer-Rebuy-Prediction/
 │
 ├── data/
-│ └── customer_purchase_history.csv # Example dataset (replace with actual dataset)
+│   └── customer_purchase_history.csv # Example dataset 
 │
-├── notebooks/
-│ └── exploratory_data_analysis.ipynb # Jupyter notebook for EDA (optional)
 │
 ├── src/
-│ ├── feature_engineering.py # Feature engineering script
-│ ├── train_model.py # Main script for training the model
-│ ├── predict.py # Script for making predictions using the trained model
+│   ├── feature_engineering.py # Feature engineering script
+│   ├── train_model.py # Main script for training the model
+│   ├── predict.py # Script for making predictions using the trained model
 │
 ├── tests/
-│ └── test_feature_engineering.py # Unit tests for the feature engineering module
+│   └── test_feature_engineering.py # Unit tests for the feature engineering module
 │
 ├── models/
-│ └── rebuy_model.pkl # Trained model file
+│   └── rebuy_model.pkl # Trained model file
 │
 ├── requirements.txt # List of required Python packages
 └── README.md # Project documentation
