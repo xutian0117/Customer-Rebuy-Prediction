@@ -44,30 +44,18 @@ The project is organized as follows:
 └── README.md # Project documentation
 
 
-### Files and Directories
-
-- **data/**: Contains the dataset used for training and testing the model. Replace `customer_purchase_history.csv` with your actual dataset.
-- **notebooks/**: (Optional) Contains Jupyter notebooks used for exploratory data analysis (EDA).
-- **src/**: Contains source code for feature engineering, model training, and predictions.
-- **tests/**: Contains unit tests for the feature engineering module to ensure correctness.
-- **models/**: Contains the saved trained model.
-- **requirements.txt**: Lists the Python packages required to run the project.
-- **README.md**: Provides an overview of the project, installation instructions, and usage examples.
-- **LICENSE**: (Optional) License file specifying the terms under which the project can be used.
-
 ## Installation
 
 
 ### Files and Directories
 
-- **data/**: Contains the dataset used for training and testing the model. Replace `customer_purchase_history.csv` with your actual dataset.
-- **notebooks/**: (Optional) Contains Jupyter notebooks used for exploratory data analysis (EDA).
+- **data/**: Contains the dataset used for training and testing the model. 
 - **src/**: Contains source code for feature engineering, model training, and predictions.
 - **tests/**: Contains unit tests for the feature engineering module to ensure correctness.
 - **models/**: Contains the saved trained model.
 - **requirements.txt**: Lists the Python packages required to run the project.
 - **README.md**: Provides an overview of the project, installation instructions, and usage examples.
-- **LICENSE**: (Optional) License file specifying the terms under which the project can be used.
+
 
 ## Installation
 
