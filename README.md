@@ -24,8 +24,10 @@ The project is organized as follows:
 Customer-Rebuy-Prediction/
 │
 ├── data/
-│   └── customer_purchase_history.csv # Example dataset 
+│   └── customer_purchase_history.csv # Example dataset (replace with actual dataset)
 │
+├── notebooks/
+│   └── exploratory_data_analysis.ipynb # Jupyter notebook for EDA (optional)
 │
 ├── src/
 │   ├── feature_engineering.py # Feature engineering script
@@ -40,6 +42,7 @@ Customer-Rebuy-Prediction/
 │
 ├── requirements.txt # List of required Python packages
 └── README.md # Project documentation
+
 
 
 ## Installation
