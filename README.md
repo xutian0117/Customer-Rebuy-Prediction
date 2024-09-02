@@ -34,8 +34,6 @@ The project is organized as follows:
     - predict.py                             # Script for making predictions using the trained model
   - tests/
     - test_feature_engineering.py            # Unit tests for the feature engineering module
-  - models/
-    - rebuy_model.pkl                        # Trained model file
   - requirements.txt                         # List of required Python packages
   - README.md                                # Project documentation
 
