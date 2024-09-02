@@ -19,7 +19,6 @@ This project implements a machine learning model designed to predict whether a o
 
 
 
-The project is organized as follows:
 ## Project Structure
 
 The project is organized as follows:
@@ -39,8 +38,6 @@ Customer-Rebuy-Prediction/
 │   └── rebuy_model.pkl                        # Trained model file
 ├── requirements.txt                           # List of required Python packages
 └── README.md                                  # Project documentation
-
-
 
 ## Installation
 
