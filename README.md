@@ -25,9 +25,9 @@ The project is organized as follows:
 
 - Customer-Rebuy-Prediction/
   - data/
-    - customer_purchase_history.csv          # Example dataset (replace with actual dataset)
+    - customer_purchase_history.csv          
   - notebooks/
-    - exploratory_data_analysis.ipynb        # Jupyter notebook for EDA (optional)
+    - exploratory_data_analysis.ipynb        # Jupyter notebook for EDA 
   - src/
     - feature_engineering.py                 # Feature engineering script
     - train_model.py                         # Main script for training the model
